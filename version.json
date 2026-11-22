@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.2.8",
+  "latestVersion": "1.2.9",
   "minVersion": "1.2.5",
   "graceDays": 3,
-  "releaseNotes": "• Distraction Blocker & App Lock (YouTube, Instagram, Snapchat, etc.)\n• Developer Modal true-center & zero-polygon clean look\n• In-app stats tracking for focus violations",
-  "apkUrl": "https://expo.dev/artifacts/eas/ze-qbwcEzisXMWM9py34DSQ-Vla0PCRvGZS4gL2BQwg.apk"
+  "releaseNotes": "• Zero Play Protect Warning (100% clean install)\n• Instant Screen Overlay (Directly locks YouTube/Instagram on screen)\n• Exact App Detection & Brand Colors\n• Auto Back Button protection",
+  "apkUrl": "https://expo.dev/artifacts/eas/bSfHa3gNh8U91J2wWPJyzscNBACSbr73jx2m6keoh4A.apk"
 }
